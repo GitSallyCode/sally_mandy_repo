@@ -1,2 +1,6 @@
 # sally_mandy_repo
-Exercise 1 
+
+**introduction.md**
+*Mandy & Sally*
+
+
